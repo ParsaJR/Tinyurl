@@ -1,5 +1,5 @@
 # Tinyurl
-Simple "link shortener" with Node js
+Simple "link shortener" with Node js & MongoDB
 ## Installation
 ```
 $ npm install
